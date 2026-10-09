@@ -1,2 +1,8 @@
-.env
+__pycache__/
+*.py[cod]
 venv/
+.venv/
+.env
+data/chroma/
+data/database-corrupted*
+data/*.malformed
