@@ -1,0 +1,13 @@
+COMPANY SECURITY POLICY
+
+The company protects business information, customer information, employee information, and system credentials through access controls, secure technology practices, and employee awareness.
+
+Employees must use multifactor authentication where available, protect passwords and access tokens, and never share credentials. Access to company systems and data is granted according to job responsibilities and the principle of least privilege. Employees may access confidential information only for authorized business purposes.
+
+Company devices must use approved security controls, current software updates, screen locks, and endpoint protection. Employees must not install unauthorized software or transfer confidential information to personal accounts, unapproved applications, or removable media.
+
+Suspected phishing, malware, unauthorized access, lost devices, accidental data disclosure, or other security incidents must be reported to the security team immediately. Employees should preserve relevant evidence and should not investigate or delete suspicious messages unless instructed by security personnel.
+
+Confidential information must be stored and transmitted using approved company systems. Sensitive information should not be included in public messages, unsecured documents, or unapproved collaboration tools. Employees must complete required security awareness training and follow applicable data-retention and privacy requirements.
+
+Security exceptions require documented business justification and approval from the appropriate security or management owner. Violations may result in removal of access, additional training, investigation, or other corrective action.

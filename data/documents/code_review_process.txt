@@ -1,0 +1,13 @@
+CODE REVIEW PROCESS
+
+All production code must be reviewed before it is merged into the main branch. The author creates a pull request that explains the purpose of the change, identifies affected components, and describes testing completed.
+
+At least one qualified reviewer evaluates the change. Higher-risk changes, including authentication, authorization, customer data, security controls, financial calculations, and production configuration, require additional review by an appropriate technical or security owner.
+
+Reviewers check correctness, readability, maintainability, performance, security, error handling, test coverage, and compatibility with existing functionality. Reviewers should verify that the change does not expose credentials, weaken access controls, disclose confidential information, or introduce unsafe dependencies.
+
+Automated tests, linting, and other required checks must pass before approval. Review comments should be specific and actionable. The author is responsible for addressing comments, updating the pull request, and requesting another review when material changes are made.
+
+A pull request may be merged only after required approvals and automated checks are complete. The author should not approve their own change unless the project’s documented exception process permits it. Emergency fixes may follow an expedited review process, but the change must receive documented follow-up review after deployment.
+
+The team should retain the pull request description, approvals, test results, and significant review decisions as part of the project record.

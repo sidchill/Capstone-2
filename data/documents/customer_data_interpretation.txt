@@ -1,0 +1,5 @@
+CUSTOMER DATA INTERPRETATION
+
+The customer industry identifies the primary industry associated with each customer. Churned customers are identified by a non-blank churn date. Active customers are identified by a blank churn date.
+
+Analysts should avoid treating satisfaction scores as percentages. The satisfaction score is measured on a five-point scale.

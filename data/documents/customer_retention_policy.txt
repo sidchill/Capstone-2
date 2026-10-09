@@ -1,0 +1,7 @@
+CUSTOMER RETENTION POLICY
+
+Customer records contain the customer name, industry, churn date, and satisfaction score. Satisfaction scores range from 1.0 to 5.0, where 5.0 represents the highest satisfaction.
+
+A blank churn date means that the customer is currently active. A populated churn date indicates that the customer has churned.
+
+Customers with satisfaction scores below 3.0 should receive priority for retention outreach. Retention analysis should consider churn by industry, average satisfaction score, and the number of active and churned customers.

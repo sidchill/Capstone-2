@@ -1,0 +1,7 @@
+EMPLOYEE SATISFACTION GUIDELINES
+
+Employee records contain the department, satisfaction score, and tenure in years. Employee satisfaction scores range from 1.0 to 5.0.
+
+Departments with an average satisfaction score above 4.0 demonstrate strong employee engagement. Departments with an average satisfaction score below 3.5 should receive additional management attention.
+
+Employee satisfaction should be reviewed quarterly. Analysis may include average satisfaction by department, average tenure by department, and comparisons between departments.

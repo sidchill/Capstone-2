@@ -1,0 +1,9 @@
+EMPLOYEE SATISFACTION AND POLICY IMPACTS
+
+Employee satisfaction may be influenced by workload, manager effectiveness, career development, recognition, compensation, flexibility, training, communication, and psychological safety.
+
+Managers should review satisfaction results by department and consider both quantitative scores and employee feedback. Departments with lower scores should examine workload, staffing, leadership communication, role clarity, and access to development opportunities.
+
+Potential policy responses include manager check-ins, workload reviews, professional development plans, recognition programs, clearer escalation channels, improved onboarding, and targeted retention outreach. Policy changes should be based on documented findings rather than assumptions about individual employees.
+
+The current project database contains employee satisfaction information but does not contain an external industry benchmark. Therefore, the system should not claim that employee satisfaction is above or below industry standards unless a separate benchmark dataset is provided.

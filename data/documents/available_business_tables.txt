@@ -1,0 +1,9 @@
+AVAILABLE BUSINESS TABLES
+
+The sales table contains: id, region, product, revenue, date, and units_sold.
+
+The customers table contains: id, name, industry, churn_date, and satisfaction_score.
+
+The employees table contains: id, department, satisfaction_score, and tenure_years.
+
+The SQLite database is the authoritative source for quantitative questions involving totals, averages, counts, rankings, and other calculations. This document is the source for qualitative policies and interpretation guidance.

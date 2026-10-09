@@ -1,0 +1,13 @@
+CUSTOMER COMPLAINT HANDLING PROCESS
+
+Customer complaints must be recorded in the customer support system or designated complaint log. The record should include the customer, date received, issue description, affected product or service, severity, assigned owner, status, and resolution.
+
+The receiving employee should acknowledge the complaint promptly, clarify the customer’s concern, and assign the issue to an accountable owner. Complaints involving security, privacy, safety, financial impact, discrimination, legal concerns, or repeated service failure must be escalated to the appropriate specialist or manager.
+
+The complaint owner investigates the issue using available records and communicates only verified information. The owner should identify the cause, determine the appropriate corrective action, and keep the customer informed about material status changes.
+
+A complaint may be closed only after the resolution is documented and the customer has received an appropriate response. If the customer remains dissatisfied, the complaint should be escalated for management review.
+
+Complaint trends should be reviewed periodically to identify recurring product defects, training needs, process failures, or policy changes. Corrective actions should have an owner and a method for tracking completion.
+
+Customer information must be handled according to the company security policy. Complaint records should not include unnecessary sensitive information, and access should be limited to employees with a legitimate business need.

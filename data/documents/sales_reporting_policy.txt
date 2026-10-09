@@ -1,0 +1,7 @@
+SALES REPORTING POLICY
+
+Sales records contain the region, product, revenue, transaction date, and units sold. Revenue is recorded in U.S. dollars. Sales performance should be analyzed by region, product, and reporting period.
+
+Regional sales reporting should compare total revenue and total units sold across the East, West, North, and South regions. Product reporting should compare the Analytics Platform, Risk Dashboard, and Data Integration products.
+
+Revenue is calculated by summing the revenue field. Unit volume is calculated by summing the units_sold field. When comparing regions, analysts should state both the total revenue and the percentage contribution where appropriate.
